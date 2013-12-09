@@ -1,0 +1,1 @@
+This repository includes SlidingMenu examples can compile in ADT, some demos and personal projects.
