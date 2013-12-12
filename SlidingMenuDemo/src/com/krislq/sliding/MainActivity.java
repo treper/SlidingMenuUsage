@@ -12,9 +12,7 @@ import com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivity;
 
 /**
  * 
- * @author <a href="mailto:kris@krislq.com">Kris.lee</a>
- * @since Mar 12, 2013
- * @version 1.0.0
+
  */
 public class MainActivity extends SlidingActivity {
     @Override

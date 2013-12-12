@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DxStore</string>
+    <string name="bookstore_mainpage">首页</string>
+    <string name="bookshelf">书架</string>
+    <string name="bookstore_recommendation">推荐</string>
+    <string name="bookstore_mine">我的</string>
+    <string name="bookstore_search">搜索</string>
+    <string name="bookstore_preview">试读</string>
+    <string name="descr_image">试读页</string>
+    <string name="hello">Hello World, ReaderActivity!</string>
+</resources>
